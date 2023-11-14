@@ -6,3 +6,5 @@ A simple chrome extension that grants users the ability to quickly navigate to t
 
 This extension is an introductory project that serves to explore the concepts of service workers, state management, event handling, and content scripts.
 
+<br>
+
